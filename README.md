@@ -10,5 +10,5 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twozero28)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twozero28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
